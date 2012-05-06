@@ -27,7 +27,7 @@ virtualenv ENV
 . ENV/bin/activate
 ```
 
-Install various dependencies. This may take a bit (especially numpy). If installing pygame errors, try installing from a [binary packages](http://pygame.org/install.html) or following one of the guides from that page to install from source.
+Install various dependencies. This may take a bit (especially numpy). If installing pygame errors, try installing from a [binary packages](http://pygame.org/install.html) or following one of the guides from that page to install from source. If installing numpy errors, make sure that you have a fortran compiler installed (apt-get install gfortran).
 
 ```bash
 easy_install PyOpenGL
