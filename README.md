@@ -2,6 +2,21 @@
 
 MCEdit is an open-source, BSD-licenced world editor for the viral indie hit [Minecraft](http://www.minecraft.net/).
 
+## For Users
+
+MCEdit is available for download at http://www.mcedit.net.
+On that site is also the [About page](http://www.mcedit.net/about.html).
+
+You may also want to look at the [wiki](https://github.com/mcedit/mcedit/wiki) for this project.
+
+### Reporting Issues
+
+First, read the [Reporting Guidelines](http://github.com/mcedit/mcedit/wiki/Reporting-Issues) before
+submitting any issues; there's even an easy link to create a GitHub issue on that page.
+
+Consider checking the [MCEdit site](http://www.mcedit.net) and trying the development version.
+It's possible that your issue may have already been fixed and is waiting for a stable release.
+
 ## For Developers
 
 MCEdit is written in Python using a variety of open source modules. When developing it is recommended to use virtualenv to keep dependencies sane and for easy deployment.
